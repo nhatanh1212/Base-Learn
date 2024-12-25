@@ -1,2 +1,2 @@
 # Base-Learn
-13 task Base Learn
+13 script contract Base Learn
